@@ -1,4 +1,4 @@
-# firewall-project
+**#firewall-project**
 ##Configuring pfSense Firewall with Private Subnet
 ###Objective:
 ##To set up a secure and efficient private network with a segmented WAN and LAN configuration using pfSense.
